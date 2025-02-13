@@ -17,6 +17,8 @@ The **Third Eye for the Blind** is a wearable assistive device designed to help 
 - **Wires & Connectors**
 
 ## Circuit Diagram
+![Circuit Diagram](Thirdeye_circuit.png)
+
 
 
 ## Installation & Usage
